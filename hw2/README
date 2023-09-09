@@ -1,0 +1,3 @@
+In order to keep a tidy workspace, we highly recommend you to use:
+- Directory MSIM as the working directory of Modelsim
+- Directory SNPS_DC as the working directory of Design Compiler

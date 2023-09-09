@@ -1,0 +1,17 @@
+Following are some expected outputs of your program that you can check:
+
+[Undirected graph]
+
+With k = 0: test01: 6, test02: 4, test03: 0, test04: 0
+With k = 1: test01: 3, test02: 2, test03: 0, test04: 0
+With k = 2: test01: 0, test02: 4, test03: 0, test04: 0
+With k = 10: test01: 0, test02: 0, test03: 0, test04: 1
+
+[Directed graph (advanced exercise)]
+Degree = 1: test01: 2, test02: 2, test03: 0, test04: 0
+In-degree = 1: test01: 4, test02: 3, test03: 0, test04: 0
+Out-degree = 1: test01: 1, test02: 3, test03: 0, test04: 0
+
+Degree = 10: test01: 0, test02: 0, test03: 1, test04: 1
+In-degree = 10: test01: 0, test02: 0, test03: 0, test04: 3
+Out-degree = 10: test01: 0, test02: 0, test03: 0, test04: 1

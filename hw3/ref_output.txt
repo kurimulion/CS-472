@@ -1,0 +1,5 @@
+./hw3 testcases/test01.txt 
+Value of objective function: 3.00000000
+
+./hw3 testcases/test02.txt
+Value of objective function: 8.00000000
